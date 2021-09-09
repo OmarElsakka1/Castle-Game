@@ -1,0 +1,94 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SuperSoldiers.cpp
+  Healer.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Healer.cpp(35,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Healer.cpp(46,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Healer.cpp(94,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Healer.cpp(97,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GUI.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\GUI\GUI.cpp(267,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  Freezer.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Freezer.cpp(15,27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Fighter.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Fighter.cpp(15,27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Enemy.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Enemies\Enemy.cpp(73,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Enemies\Enemy.cpp(203,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Enemies\Enemy.cpp(207,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Demo_Main.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Castle.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(147,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(224,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(301,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(379,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(455,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(539,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(589,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(186,13): warning C4101: 'priorityfighter': unreferenced local variable
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(265,13): warning C4101: 'priorityfighter': unreferenced local variable
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Castle\Castle.cpp(421,13): warning C4101: 'priorityfighter': unreferenced local variable
+  Battle.cpp
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(120,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(362,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(373,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(384,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(426,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(459,10): warning C4101: 'priorityfighter': unreferenced local variable
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(858,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(908,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Battle.cpp(987,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+Battle.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CastleDSProject.vcxproj -> C:\Users\Omar El-Sakka\Desktop\Past\Year2\Semster2\Data struct\Project\CIE205 Project (Phase two)\Phase2\FIINAL\Debug\CastleDSProject.exe
