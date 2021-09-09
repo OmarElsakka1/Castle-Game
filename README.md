@@ -10,7 +10,11 @@ we can choose the file of the data of the whole enemies
 ![Upload File](https://user-images.githubusercontent.com/68303138/132766625-78ef2fd4-6c69-4c13-bdd7-ee18619faf06.png)
 
 
-Red rectangulars -> Fighters Yellow rectangulars -> Healers Blue rectangulars -> Freezers Green Rectangulars -> Super Soldiers (from the castle) The castle -> the middle of the screen
+Red rectangulars -> Fighters 
+Yellow rectangulars -> Healers 
+Blue rectangulars -> Freezers 
+Green Rectangulars -> Super Soldiers (from the castle) 
+The castle -> the middle of the screen
 
 the distance of the enemy from the castle and health are driven from certain equations
 
